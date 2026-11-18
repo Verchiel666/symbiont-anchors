@@ -1,0 +1,27 @@
+{
+ "device": "android-dsh",
+ "ts": "2026-11-18T01:46:53.030Z",
+ "chainHead": "5c155703c5808c5ae35939fc72a33ef68ba3dda3bfb19d030c68044cfa1a28b5",
+ "frames": 3,
+ "lastMode": {
+  "level": "L2",
+  "setting": "session",
+  "ts": "2026-11-17T23:21:51.813Z"
+ },
+ "proof": {
+  "window": {
+   "t0": "2026-11-17T23:20:51.814Z",
+   "t1": "2026-11-17T23:22:51.814Z"
+  },
+  "claim": {
+   "mode": "L2",
+   "throughout": true
+  },
+  "modeRoot": "eabee1bfad1b8bcda69d0c303efb3bafcd0eafd7a4144517a34dba6df63b2d36",
+  "check": {
+   "ok": true,
+   "errs": []
+  }
+ },
+ "what": "symbiont-lite audit chain head (hash only; no personal content)"
+}
